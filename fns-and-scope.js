@@ -11,6 +11,7 @@ function isTyler(name){
 //////////////////PROBLEM 2////////////////////
 
 
+
 //Create a function called getName that uses prompt() to prompt the user for their name, then returns the name.
 function getName(){
   var name = prompt('Please enter name here')
